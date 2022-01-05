@@ -1,14 +1,14 @@
 # BIzTalk GetTrackedMessage Tool
-This tools allows you to extract a message body from the BizTalk tracking database using 3 possible ways: 
+This tool allows you to extract a message body from the BizTalk tracking database using 3 possible ways: 
 * Operations DLL
 * SQL, 
 * and WMI
 
 The application has only one form (print-screen below), and expects the following parameters:
-– The message guid of the message you want to extract.
-– The extraction type (Use Operations DLL, Use SQL, Use WMI)
-– Tracking DB server (the BizTalk server name)
-– Tracking DB name (the BizTalk Tracking database name)
+* The message guid of the message you want to extract.
+* The extraction type (Use Operations DLL, Use SQL, Use WMI)
+* Tracking DB server (the BizTalk server name)
+* Tracking DB name (the BizTalk Tracking database name)
 
 ![BIzTalk-GetTrackedMessage-Tool](media/BizTalk-GetTrackedMessage-tool.png)
 
