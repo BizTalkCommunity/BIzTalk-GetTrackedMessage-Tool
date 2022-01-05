@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\GetTrackedMessage\obj\Debug\GetTrackedMessage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.GetTrackedMessage.resources
+C:\Users\Administrator\Desktop\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GetTrackedMessage\obj\Debug\GetTrackedMessage.csproj.GenerateResource.Cache
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\GetTrackedMessage.csprojAssemblyReference.cache
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.GetTrackedMessage.resources
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.Properties.Resources.resources
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\GetTrackedMessage.csproj.GenerateResource.cache
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\GetTrackedMessage.csproj.CoreCompileInputs.cache
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\Datacom.GetTrackedMessage.exe.config
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\Datacom.GetTrackedMessage.exe
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\Datacom.GetTrackedMessage.pdb
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\saxon9he-api.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\saxon9he.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.Runtime.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DEV\More Tools\GetTrackedMessage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\GetTrackedMessage.csproj.CopyComplete
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.exe
+C:\DEV\More Tools\GetTrackedMessage\obj\Debug\Datacom.GetTrackedMessage.pdb
